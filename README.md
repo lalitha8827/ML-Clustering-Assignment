@@ -9,5 +9,7 @@ The raw image is available in spicy.misc package with the name face.
 Hint:
 
 import numpy as np
+
 from sklearn import cluster, datasets
+
 from scipy import misc
